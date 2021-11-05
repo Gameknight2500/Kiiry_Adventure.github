@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+    	<meta charset="utf-8">
+    	<title>Kiiry Adventure</title>
+    	<link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+
+        <div id="carte">
+
+    	<h1>Kiiry Adventure</h1>
+
+    	<img src="">
+
+        <p>Bonjour, </p>
+        <a href="test2.html"><p>La chaine de Gameknight2500</p></a>
+        
+    </body>
+
+
+</html>
